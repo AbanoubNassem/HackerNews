@@ -1,0 +1,8 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+hacker-news.db
+hacker-news.db-shm
+hacker-news.db-wal
